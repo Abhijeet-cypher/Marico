@@ -1,0 +1,16 @@
+{
+  "retailers": [
+    { "id": "R001", "name": "Sharma General Store", "owner": "Ramesh Sharma", "city": "Pune", "last_order": "Parachute Coconut Oil 500ml x 24" },
+    { "id": "R002", "name": "Gupta Kirana", "owner": "Anil Gupta", "city": "Indore", "last_order": "Saffola Gold 1L x 12" },
+    { "id": "R003", "name": "Patel Mart", "owner": "Hitesh Patel", "city": "Surat", "last_order": "Livon Serum 50ml x 36" }
+  ],
+  "products": [
+    { "name": "Parachute Coconut Oil 200ml", "mrp": 99, "retailerPrice": 88, "unitsPerCase": 48, "stock": 1200, "scheme": "Buy 10 cases, get 1 case free" },
+    { "name": "Parachute Coconut Oil 500ml", "mrp": 235, "retailerPrice": 211, "unitsPerCase": 24, "stock": 640, "scheme": "5% off on 5 cases or more" },
+    { "name": "Saffola Gold 1L", "mrp": 210, "retailerPrice": 188, "unitsPerCase": 12, "stock": 300, "scheme": "Rs 6 off per bottle on 10 cases or more" },
+    { "name": "Saffola Active 2L", "mrp": 395, "retailerPrice": 355, "unitsPerCase": 6, "stock": 0, "scheme": "No scheme right now" },
+    { "name": "Livon Hair Serum 50ml", "mrp": 190, "retailerPrice": 160, "unitsPerCase": 36, "stock": 450, "scheme": "Free display stand on 3 cases" },
+    { "name": "Set Wet Gel 100ml", "mrp": 120, "retailerPrice": 102, "unitsPerCase": 48, "stock": 85, "scheme": "Buy 5 cases, get 5 pieces free" },
+    { "name": "Nihar Naturals Hair Oil 300ml", "mrp": 150, "retailerPrice": 129, "unitsPerCase": 24, "stock": 900, "scheme": "2% extra margin on 4 cases or more" }
+  ]
+}
